@@ -412,7 +412,7 @@ footer{background:#060f09;padding:32px 60px;display:flex;align-items:center;just
 }
 
 /* ===== DOCUMENTOS FUENTE (enlace debajo de cada cuadro + modal) ===== */
-.doc-link-grid{display:grid;grid-template-columns:1fr 1fr;gap:18px;margin:-6px 0 40px}
+.doc-link-grid{display:grid;grid-template-columns:1fr 1fr;gap:18px;margin:32px 0 40px}
 .doc-link-grid.single{grid-template-columns:1fr;max-width:520px}
 .doc-link-card{background:#fff;border-radius:12px;border:1.5px solid #e0e0d0;cursor:pointer;display:flex;align-items:center;gap:14px;padding:12px 16px;transition:transform .25s,box-shadow .25s,border-color .25s}
 .doc-link-card:hover{transform:translateY(-3px);box-shadow:0 12px 28px rgba(10,61,31,.1);border-color:var(--verde)}
